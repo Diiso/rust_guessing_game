@@ -1,0 +1,1 @@
+{"rustc":10800988059018796093,"features":"[]","target":6035654596194783329,"profile":12095188490310526307,"path":1036222786711178230,"deps":[["rand v0.3.22",11942027651288968157],["rand v0.3.22",5801694067975732847]],"local":[{"Precalculated":"1521931915.037423811s (/home/lou/rust_tutorial/guessing_game/src/main.rs)"}],"rustflags":[]}
